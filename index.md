@@ -1,10 +1,9 @@
 # Focus
 <p> Here is a list of Languages I am currently studying: <br>
-Python
-<br>
-C# <br>
+Python <br>
+C# 
 
- # My Interest 
+# My Interest 
 I'm interested in the Visual Arts and Game Gevelopment & Design!
 
 # Get In Touch
