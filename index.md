@@ -1,6 +1,7 @@
 # Focus
 <p> Here is a list of Languages I am currently studying: <br>
 Python
+<br>
 C#
 
  # My Interest 
