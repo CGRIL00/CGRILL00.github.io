@@ -1,8 +1,8 @@
 # Focus
 <p> Here is a list of Languages I am currently studying: <br>
 <p> C# <br>
-<p> Python <br>
-<p> # My Interest <br>
+<p> Python </p>
+ # My Interest 
 I'm interested in the Visual Arts and Game Gevelopment & Design!
-<p> # Get in touch <br>
+# Get in touch
 <li> https://github.com/CGRIL00
